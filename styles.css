@@ -17,6 +17,8 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
 .link-button:hover{
     background-color: gray;
+    border: #f2f2f2;
 }
