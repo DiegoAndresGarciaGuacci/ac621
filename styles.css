@@ -4,6 +4,10 @@ body {
     background-color: rgb(161, 236, 236);
 }
 
+h1{
+    font-transform: uppercase;
+}
+
 #text{
     width: 38%;
     margin-left: auto;
